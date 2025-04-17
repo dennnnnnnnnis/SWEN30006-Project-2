@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pacman/out/production/pacman/lib/jdom-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pacman/out/production/pacman/lib/JGameGrid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
